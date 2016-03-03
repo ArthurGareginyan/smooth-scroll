@@ -30,7 +30,7 @@ Or you can download the jQuery library (is a single JavaScript file). Place the 
 <script src="jquery-2.0.0.min.js"></script>
 ```
 
-**Note:** the <script> tag should be inside the <head> section.
+**Note:** The `<script>` tag should be inside the `<head>` section.
 
 
 **Step 2**
